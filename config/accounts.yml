@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to Eazy Bank accounts related Local api"
+  contactDetails:
+    name: "Venkat Rajulapati-developer"
+    email: "v.raju@gmail.com"
+  onCallSupport:
+    -5557775555
+    -7788995454
