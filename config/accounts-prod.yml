@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to Eazy Bank accounts related prod api"
+  contactDetails:
+    name: "Venkat Rajulapati-Proddeveloper"
+    email: "v.raju@gmail.com"
+  onCallSupport:
+    - 5557775555
+    - 7788995454
