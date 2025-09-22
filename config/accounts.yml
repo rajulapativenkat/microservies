@@ -3,7 +3,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to Eazy Bank accounts related Local docker api"
+  message: "Welcome to Eazy Bank accounts related Local docker compose api"
   contactDetails:
     name: "Venkat Rajulapati-developer"
     email: "v.raju@gmail.com"
